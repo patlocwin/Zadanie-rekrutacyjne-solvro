@@ -13,7 +13,7 @@ Zadanie rekrutacyjne do kn solvro
    ```
    **B) Windows**
    ```
-   python3 -m venv .venv
+   python -m venv .venv
    ```
 
 3. Aktywuj .venv:
