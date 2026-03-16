@@ -6,20 +6,26 @@ Zadanie rekrutacyjne do kn solvro
 1. Sklonuj to repo do siebie.
 
 2. Utworz .venv:
-   ```bash
+
+   **A) macOS**
+   ```
+   python3 -m venv .venv
+   ```
+   **B) Windows**
+   ```
    python3 -m venv .venv
    ```
 
 3. Aktywuj .venv:
 
-    *A) macOS*
-       ```
-       source .venv/bin/activate
-       ```
-    *B) Windows*
-       ```
-       .venv\Scripts\activate
-       ```
+   **A) macOS**
+   ```
+   source .venv/bin/activate
+   ```
+   **B) Windows**
+   ```
+   .venv\Scripts\activate
+   ```
 
 4. Zainstaluj biblioteki z `requirements.txt`. W terminalu wpisz:
    ```bash
