@@ -13,11 +13,11 @@ Zadanie rekrutacyjne do kn solvro
 3. Aktywuj .venv:
 
     *A) macOS*
-       ```bash
+       ```
        source .venv/bin/activate
        ```
     *B) Windows*
-       ```bash
+       ```
        .venv\Scripts\activate
        ```
 
