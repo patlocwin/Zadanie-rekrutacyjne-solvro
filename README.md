@@ -1,5 +1,7 @@
 # Zadanie-rekrutacyjne-solvro
 Zadanie rekrutacyjne do kn solvro
+# Autor: Patryk Łoćwin
+## Kierunek studiów: ITE
 
 ## Jak to odpalić?
 
